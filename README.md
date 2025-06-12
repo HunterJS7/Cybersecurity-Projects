@@ -16,6 +16,8 @@
  
 - <b>Digital Forensics (Home Lab)</b>
 
+- <b>Microsoft Entra/Azure (Home Lab)</b>
+
 
 
 
