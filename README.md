@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Analysis</b>
-  - [Phishing Analysis Hands On Challenge](https://github.com/KaizenJS7/Phishing-Analysis-Hands-On-Challenge)
+  - [Phishing Analysis Hands On Challenge 1](https://github.com/KaizenJS7/Phishing-Analysis-Hands-On-Challenge)
   - 
   - 
 - <b>Network Security (Home Lab)</b>
