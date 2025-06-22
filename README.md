@@ -4,7 +4,7 @@
 
 - <b>Phishing Analysis</b>
   - [Breaking Down Phishing Analysis](https://github.com/HunterJS7/Breaking-Down-Phishing-Analysis)
-  - [Phishing Analysis Hands On Challenge 1](https://github.com/KaizenJS7/Phishing-Analysis-Hands-On-Challenge)
+  - [Phishing Analysis Challenge 1](https://github.com/HunterJS7/Phishing-Analysis-Challenge-1)
   - 
   - 
 - <b>Network Security (Home Lab)</b>
