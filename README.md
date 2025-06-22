@@ -7,15 +7,15 @@
   - [Phishing Analysis Challenge 1](https://github.com/HunterJS7/Phishing-Analysis-Challenge-1)
   - 
   - 
-- <b>Network Security (Home Lab)</b>
+- <b>Network Security</b>
   - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>Endpoint Security (Home Lab)</b>
+- <b>Endpoint Security)</b>
  
-- <b>Security Information and Event Management (SIEM) (Home Lab) </b>
+- <b>Security Information and Event Management (SIEM)</b>
  
-- <b>Threat Intelligence (Home Lab)</b>
+- <b>Threat Intelligence</b>
  
-- <b>Digital Forensics (Home Lab)</b>
+- <b>Digital Forensics</b>
 
 - <b>Microsoft Entra/Azure (Home Lab)</b>
 
