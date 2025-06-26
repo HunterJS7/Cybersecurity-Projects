@@ -1,7 +1,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Analysis</b>
-  - [Breaking Down Phishing Analysis](https://github.com/HunterJS7/Breaking-Down-Phishing-Analysis)
   - [Phishing Analysis Challenge 1](https://github.com/HunterJS7/Phishing-Analysis-Challenge-1)
   - 
   - 
