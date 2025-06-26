@@ -1,5 +1,3 @@
-<h1>Hi, I'm Jose Sanchez Jr!
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Analysis</b>
